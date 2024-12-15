@@ -1,0 +1,36 @@
+.modal {
+    color: lightgrey;
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+.parent {
+    width: 50%;
+    display: block;
+    aspect-ratio: 1;
+    position: relative;
+}
+
+.image {
+    width: 100%;
+}
+
+.background {
+    background-color: rgba(0,0,0,0.3);
+    width: 100%;
+    height: 100%;
+    position: fixed;
+}
+
+.exit-button {
+    color: white;
+    position: absolute;
+    right: 0%;
+    top: 0;
+}

@@ -1,0 +1,41 @@
+.box-1 {
+  width: 350px;
+  height: 450px;
+  border: 1px solid gray;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 150px;
+}
+
+.text {
+    text-align: center;
+}
+
+.text-entry {
+    width: 260px;
+    height: 37px;
+}
+
+.signup-button {
+    width: 268px;
+    height: 32px;
+    border-radius: 10px;
+}
+
+.box-2 {
+    border: 1px solid gray;
+    width: 350px;
+    height: 63px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 10px;
+  }

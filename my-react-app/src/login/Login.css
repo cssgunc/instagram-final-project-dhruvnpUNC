@@ -1,0 +1,47 @@
+.le-epic-box {
+    width: 350px;
+    height: 400px;
+    border: 1px solid gray;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 150px;
+}
+
+.password {
+    width: 260px;
+    height: 37px;
+}
+
+.user-handle {
+    width: 260px;
+    height: 37px;
+}
+
+.login-button {
+    width: 268px;
+    height: 32px;
+    border-radius: 10px;
+}
+
+.logo {
+    width: 175px;
+    height: 51;
+}
+
+.le-epic-box-2 {
+    border: 1px solid gray;
+    width: 350px;
+    height: 63px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 10px;
+}

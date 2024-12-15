@@ -1,47 +1,29 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/U7zKSaZp)
-# CS+SG Fall 2024 Education Team Instagram Clone
-### ⏰ Due 12/15/2024 
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/KGP9x9TL)
+# CS+SG Fall 2024 Education Team Homework 2
 
 ## Introduction
-This project is a functional (backend and frontend) clone of Instagram web! 🤓
+In this homework assignment, you will be applying what you've learned by creating a functional clone of Instagram web! 🤓
 
 ## Requirements
 1. Clone this repository
-2. Create a new React project using the instructions from the lecture
+2. Create a new React project using the instructions from the lecture (DON'T FORGET TO ADD A FOLDER FOR YOUR REACT PROJECT TO GO IN!!)
 3. Create a clone (mockup) of your Instagram profile using React 👩🏾‍💻
 4. Submit by making a commit AND ADDING A PICTURE/VIDEO TO THE COMMIT SECTION 🥳
 
 ## Deliverables
-_Put Xs in the boxes as you complete them in order to mark them off!_ 
-
-- [ ] Include a navigation bar at the top of your page
-- [ ] Inclued a footer at the bottom of your page
-- [ ] Include the Instagram logo in the upper left of your website
-- [ ] FOUR (4) PAGES:
-  - [ ] PROFILE PAGE
-    - [ ] Pulls up the profile information of the currently logged in user
-    - [ ] Include a profile picture and bio
-    - [ ] Include information about you in your bio
-    - [ ] The option to make posts 
-    - [ ] Have a post open up when you click on it, just like on the real Instagram web (**HINT** Use React components here and pass props!!)
-    - [ ] Have the follow button work! Followers should increase/decrease when you click on the follow button! The button should also change in text and color.
-  - [ ] SIGN UP PAGE
-    - [ ] Allows user to input their information and create an account; fields for:
-      - [ ] First name
-      - [ ] Last name
-      - [ ] User handle
-      - [ ] Password 
-  - [ ] LOGIN PAGE
-      - [ ] Allows user to enter password and username to log in
-  - [ ] FEED
-    - [ ] Display posts of those that the user is following
-- [ ] Mimic the styling of the Instagram web page as closely as possible!!!!!!!!!!!!!!!!!!!
+- [] Include a navigation bar at the top of your page
+- [] Inclued a footer at the bottom of your page
+- [] Include the Instagram logo in the upper left of your website
+- [] Include a profile picture of you and bio
+  - [] Include informaiton about you in your bio
+- [] Have at least three (3) pictures on your profile (**HINT** Use React components here and pass props!!)
+- [] Have the follow button work! Followers should increase/decrease when you click on the follow button! The button should also change in text and color.
+- [] Mimic the styling of the Instagram web page as closely as possible
 
 **Stretch Goals**
 _Not required, but encouraged!_
-- [ ] Make it so that users can only visit the profile page & feed if they are logged in AND can only visit the login & sign up pages if they are NOT logged in
-- [ ] Allow users to like other posts
-- [ ] SUPER CHALLENGING: Allow users to make comments on posts
+- [] Have a post open up when you click on it, just like on the real Instagram web (**HINT** Use React components here and pass props!!)
+- [] Show the like count and comment count of each post when you hover on it, just like on the real Instagram web
 
 ## Directions
 1. **Clone this Repository**
